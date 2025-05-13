@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/ga4-session-info-server#readme"
 versions:
-  - sha: xxxxx
+  - sha: 52686c603cbdae32eef5fbc98e75791b42aa9ee8
     changeNotes: Initial release.
